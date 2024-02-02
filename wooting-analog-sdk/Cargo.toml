@@ -8,7 +8,6 @@ description = "Wooting Analog SDK"
 repository = "https://github.com/WootingKb/wooting-analog-sdk"
 homepage = "https://github.com/WootingKb/wooting-analog-sdk"
 keywords = [ "wooting", "keyboard", "analog", "sdk" ]
-build = "build.rs"
 #categories = []
 #license-file = "../LICENSE"
 
